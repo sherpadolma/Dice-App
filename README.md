@@ -1,5 +1,5 @@
 # DiceApp
 Name: Dolma Sherpa
 Course: Flutter
-Section: c
-Lcid: 0001700162
+Section: C
+Lcid: 00017001623
